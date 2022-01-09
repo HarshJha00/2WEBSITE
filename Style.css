@@ -1,0 +1,132 @@
+
+html
+{
+    background-color: grey;
+}
+/*  Header designing  */
+
+header
+{
+    display: flex;
+    background-color: black;
+}
+
+li
+{
+    list-style: none;
+    font-size: 2rem;
+    padding: 0 4rem;
+    
+}
+nav
+{
+   width: 18rem;
+   position: relative;
+   
+}
+
+ul
+{
+    display: flex;
+    
+}
+
+a
+{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover
+{
+    color: blue;
+}
+/* Header designing Ends*/
+
+/*Section Designing Starts from here*/
+
+div
+{
+    margin: 4rem 4rem;
+    
+    
+}
+
+p
+{
+    font-size: 2rem;
+}
+
+span
+{
+    font-size: 2rem;
+    color: blueviolet;
+}
+
+.Class1>h1
+{
+    color: violet;
+    font-size: 3rem;
+    background-color: orangered;
+    padding-left: 2rem;
+}
+
+.Class1
+{
+    background-color: aqua;
+}
+
+.Class2>h1
+{
+    color:gold;
+    font-size: 3rem;
+    background-color: cornflowerblue;
+    padding-left: 2rem;
+}
+
+.Class2
+{
+    background-color: aqua;
+}
+
+.Class3>h1
+{
+    color: palevioletred;
+    font-size: 3rem;
+    background-color: indigo;
+    padding-left: 2rem;
+}
+
+.Class3
+{
+    background-color: aqua;
+}
+
+.Class4>h1
+{
+    color: gray;
+    font-size: 3rem;
+    background-color: darkslateblue;
+    padding-left: 2rem;
+}
+
+.Class4
+{
+    background-color: aqua;
+}
+
+
+/* Footer designing starts from here */
+
+footer
+{   
+    height: 4rem;
+    color: aliceblue;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+    align-items: center;
+    /* Align items vertically center kar dega */
+}
+
